@@ -1,0 +1,8 @@
+[package]
+name = "trade_log-tui"
+version = "0.1.0"
+authors = ["Alex Afshar <contact@alexafshar.com>"]
+edition = "2018"
+
+[dependencies]
+cursive = "0.11.2"
